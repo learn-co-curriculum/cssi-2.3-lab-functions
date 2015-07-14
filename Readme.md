@@ -6,7 +6,7 @@ languages: javascript
 # Lab - Creating Functions In Javascript
 Lets create some functions! Add your code to functions.js, and open index.html in the browser and check the dev inspector to see your results!
 
-##1. A Bit Nervous
+## 1. A Bit Nervous
 Sometimes we aren't totally sure - let's make a function to hedge our statements.
 
 Create a function that adds "...I think" to strings, so that a string like "Functions are lists of instructions" becomes "Functions are lists of instructions...I think"
