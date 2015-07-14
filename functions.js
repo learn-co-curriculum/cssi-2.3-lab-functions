@@ -8,8 +8,8 @@ function hedge(statement) {
 }
 
 // Does it work?
-console.log(nervous("Functions are lists of instructions"));
-console.log(nervous("Functions can take multiple inputs but only return a single output"));
+console.log(hedge("Functions are lists of instructions"));
+console.log(hedge("Functions can take multiple inputs but only return a single output"));
 
 // 2. Today I learned
 // Create a function that adds "Today I learned " before string statements
