@@ -17,3 +17,5 @@ Create a function that adds "Today I learned " before string statements
 Remember the checkout function? Well, with the new 9.5% Seattle sales tax, we need to write a new checkout function so our cashier doesn't have to calculate all that on their own. We also want to be able to use the value in other calculations, so don't forget to return the value, not just print it out.
 
 Add the 9.5% tax to the checkout function.
+
+<a href='https://learn.co/lessons/cssi-2.3-lab-functions' data-visibility='hidden'>View this lesson on Learn.co</a>
