@@ -18,4 +18,4 @@ Remember the checkout function? Well, with the new 9.5% Seattle sales tax, we ne
 
 Add the 9.5% tax to the checkout function.
 
-<a href='https://learn.co/lessons/cssi-2.3-lab-functions' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-2.3-lab-functions' title='Lab - Creating Functions In Javascript'>Lab - Creating Functions In Javascript</a> on Learn.co and start learning to code for free.</p>
